@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+🌍 Group Travel Planner
+📌 Project Overview
 
-## Project info
+The Group Travel Planner is an intelligent travel planning system designed to help groups efficiently organize trips by optimizing routes, predicting travel costs, and recommending affordable accommodations and meals. The project integrates machine learning, graph theory, and geospatial technologies to provide accurate, secure, and user-friendly travel planning with real-time visualization using maps and GPS tracking.
 
-**URL**: https://lovable.dev/projects/59cb6fff-0257-4a54-bdb3-37905692c546
+This system focuses on reducing travel time, minimizing cost, and improving group satisfaction through data-driven decision-making.
 
-## How can I edit this code?
+🎯 Objectives
 
-There are several ways of editing your application.
+To optimize travel routes using graph theory and distance matrix calculations.
 
-**Use Lovable**
+To predict travel costs and demand using machine learning models.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/59cb6fff-0257-4a54-bdb3-37905692c546) and start prompting.
+To recommend destinations, stays, and meals based on group preferences.
 
-Changes made via Lovable will be committed automatically to this repo.
+To provide secure and scalable user authentication for group-based access.
 
-**Use your preferred IDE**
+To deliver an interactive interface with maps, GPS tracking, and visual analytics.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🧠 Key Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✅ Route Optimization using graph algorithms (Shortest Path / TSP)
 
-Follow these steps:
+✅ Machine Learning Predictions for cost and demand forecasting
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✅ Group-Based Recommendations for places, hotels, and meals
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+✅ Distance Matrix Computation to determine optimal visiting order
 
-# Step 3: Install the necessary dependencies.
-npm i
+✅ Interactive Maps & GPS Tracking
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+✅ Affordable Travel Suggestions
 
-**Edit a file directly in GitHub**
+✅ Secure User Authentication & Authorization
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/59cb6fff-0257-4a54-bdb3-37905692c546) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+✅ Data Storage and Analytics Dashboard
